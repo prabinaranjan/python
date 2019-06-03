@@ -25,7 +25,7 @@ print(type(a))#string'''
     print("python is my allrounder")
     
 
-#print(open("D:\\abc.txt").read())#doubt not happening
+print(open("D:\\abc.txt").read())#doubt not happening
 #wap to generate otp 4 digit
 '''
 
@@ -116,11 +116,12 @@ print(s[-1])'''
 
 #s="abcdefghijklm"
 #print(s[5:1])
-from random import randint#superb move
+#from random import randint#superb move
 
-print(randint(0,9),randint(0,9),randint(0,9),randint(0,9))
-
-
+#print(randint(0,9),randint(0,9),randint(0,9),randint(0,9))
+a=open("D:\\NOKIA\\abc.txt.txt").read()
+print(a)
+#a.close()
 
 
 
